@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LGL0uE8jyzDEBugd6NoCbjPko8M/N3/0dEbQak+ptm1xf2+Sf+6yR/bO6qT66gVHCSfwgfhExp9ClbsZtRw6WA==",
+  "dgSpecHash": "6PxGT/E7rvqR/9n3cPJS4ZPVBrwb7ExfiynkLp4Roi0xdZ9R9GB46f2kaEj76ROKyFQk4EciOMH7KHVdYcFz+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\Gradebook.csproj",
+  "projectFilePath": "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

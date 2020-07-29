@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\Gradebook.csproj": {}
+    "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\Gradebook.csproj": {
+    "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\Gradebook.csproj",
-        "projectName": "Gradebook",
-        "projectPath": "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\Gradebook.csproj",
+        "projectUniqueName": "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectName": "GradeBook",
+        "projectPath": "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\jigui\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jigui\\OneDrive - Universidade de Aveiro\\Documents\\Tutorials\\C#\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
