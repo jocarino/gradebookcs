@@ -1,0 +1,13 @@
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\jigui\OneDrive - Universidade de Aveiro\Documents\Tutorials\C#\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
